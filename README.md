@@ -1,2 +1,2 @@
 # convenience
-A repo for all anything that makes my life easier
+A repo for anything that makes my life easier
